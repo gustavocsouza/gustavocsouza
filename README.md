@@ -1,4 +1,4 @@
-## I'm a Front End Developer 😄 
+## I'm a Front End Developer ✈
 <div>
   <a href="https://github.com/gustavocsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&theme=dark"/>
