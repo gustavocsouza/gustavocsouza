@@ -1,7 +1,7 @@
 ## I'm a Front End Developer 😄 
 <div>
   <a href="https://github.com/gustavocsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocsouza&theme=dark"/>
     
     
