@@ -1,5 +1,5 @@
-## I'm a Front End Developer ✈
-## Studying ReactJS and React Native
+<h2>I'm a Front End Developer ✈</h2>
+<p>Studying ReactJS and React Native</p>
 <div>
   <a href="https://github.com/gustavocsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&theme=dark"/>
