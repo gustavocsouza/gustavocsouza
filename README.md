@@ -1,4 +1,5 @@
 ## I'm a Front End Developer ✈
+## Studying ReactJS and React Native
 <div>
   <a href="https://github.com/gustavocsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&theme=dark"/>
