@@ -2,9 +2,6 @@
 <p>Studying Vue.js</p>
 <div>
   <a href="https://github.com/gustavocsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocsouza&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocsouza&theme=dark"/>
-    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
