@@ -1,5 +1,5 @@
 <h2>I'm a Front End Developer ✈</h2>
-<p>Studying Vue.js</p>
+<p>Studying ReactJS, React Native, Node, Express, Styled Components and TailwindCSS</p>
 <div>
   <a href="https://github.com/gustavocsouza">
 </div>
